@@ -32,7 +32,7 @@
   <ul>
     <li>🗺️ Working on Google Geo</li>
     <li>🎓 Doing CS Master's <a href="https://omscs.gatech.edu/">Georgia Tech</a></li>
-    <li>🎮 Hobbyist game dev working with Unity</li>
+    <li>🎮 Hobbyist game dev</li>
     <li>⛩️ Fan of <a href="https://en.touhouwiki.net">Touhou Project</a></li>
   </ul>
 </div>
