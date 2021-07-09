@@ -30,7 +30,6 @@
      src=https://github-readme-stats.vercel.app/api?username=james7132&count_private=true&show_icons=true&theme=gradient&bg_color=45,E76344,904E95&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF>
   <h3>Hi, I'm <a href="https://jamessliu.com">James.</a></h3>
   <ul>
-    <li>🗺️ Working on Google Geo</li>
     <li>🎓 Doing CS Master's <a href="https://omscs.gatech.edu/">Georgia Tech</a></li>
     <li>🎮 Hobbyist game dev</li>
     <li>⛩️ Fan of <a href="https://en.touhouwiki.net">Touhou Project</a></li>
