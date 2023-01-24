@@ -13,13 +13,6 @@
        style="margin-right: 20px; margin-bottom: -10px"
        src=https://img.shields.io/github/followers/james7132?style=social&label=Github&logo=github>
     </a>
-    <a href=https://twitter.com/james7132>
-      <img
-       alt=twitter_follow
-       align=center
-       style="margin-right: 20px; margin-bottom: -10px"
-       src=https://img.shields.io/twitter/follow/james7132?style=social&label=Twitter&logo=twitter&color=lightgray>
-    </a>
 </div>
 
 <div class=stats>
