@@ -1,9 +1,5 @@
 
 <div class=stats>
-    <img
-     alt=stats1
-     align=right
-     style="object-fit: none; object-position: 0 -50px;"
   <h3>Hi, I'm <a href="https://no-bull.sh/about">James.</a></h3>
   <ul>
     <li>Professional Software/ML Engineer</li>
